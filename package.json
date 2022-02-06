@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/JsonHoman/Lunch/issues"
   },
-  "homepage": "https://github.com/JsonHoman/Lunch#readme"
+  "homepage": "https://github.com/JsonHoman/Lunch#readme",
+  "dependencies": {}
 }
